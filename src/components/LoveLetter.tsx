@@ -4,7 +4,7 @@ import { TypeAnimation } from "react-type-animation";
 import { Volume2, VolumeX } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-const letterText = `My Dearest [Her Name],
+const letterText = `My Dearest Glory t.L (ሃበነይ) Koki, አይጤ,
 
 On this special day, February 10, 2026, I want you to know how you've changed my me. From the moment we met that night, everything felt right. Your smile, your voice, the way you care... every little thing about you makes my heart full.
 
